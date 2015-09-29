@@ -1,11 +1,11 @@
 # gitTest
 
-**test git first mn file**
-1. [Coding Question] (#coding-questions)
+**Test git first md file**
+1. [Coding Question] (#coding-questions):
     # * types
     # * accounts
     # * codes
-1. [Fun Questions](#fun questions)
+1. [Fun Questions](#fun questions):
     # *demo
     # *test
     # *demo 
